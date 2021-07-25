@@ -45,3 +45,8 @@ body {
     background: white;
     padding: 1em;
 }
+#footer{
+    background: violet;
+    color: white;
+    text-align: center;
+}
